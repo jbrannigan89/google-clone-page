@@ -43,7 +43,7 @@ header {
 }
 
 /* svg */
- .apps { 
+.apps {
   width: 30px;
   height: 30px;
   color: rgb(228, 212, 212);
@@ -53,8 +53,6 @@ header {
 }
 .apps:hover {
   cursor: pointer;
-  border-radius: 2em;
-  background: rgb(231, 226, 226);
 }
 
 /* button */
